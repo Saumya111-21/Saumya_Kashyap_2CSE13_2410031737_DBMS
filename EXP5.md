@@ -216,14 +216,14 @@ SELECT CONCAT(
 # 14. Display the length of Your name using appropriate function.
  Query
 ~~~sql   
-SELECT LENGTH("Aman Kushwaha");
+SELECT LENGTH("Saumya Kashyap");
 ~~~
  Output
 ~~~SQL
 +-------------------------+
-| LENGTH("Aman Kushwaha") |
+| LENGTH("Saumya Kashyap") |
 +-------------------------+
-|                      13 |
+|                      14 |
 +-------------------------+
 ~~~
 # 15. Display the length of all the employee names.
